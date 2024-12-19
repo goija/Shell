@@ -2,8 +2,20 @@
 attachments: [Inventaris_38188.xlsx]
 title: Besluit Woo-verzoek
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-19T18:07:29.256Z'
+modified: '2024-12-19T18:37:59.535Z'
 ---
+
+attachments: https://github.com/goija/Shell/tree/main/attachments
+notes
+
+notes: https://github.com/goija/Shell/tree/main/notes
+
+xlsx-inventaris:https://github.com/goija/Shell/tree/main/xlsx-inventaris
+
+Shell moerdijk: https://www.shell.nl/over-ons/locaties/moerdijk.html
+
+Publicatie platform: https://open.brabant.nl/
+
 
 # Besluit Woo-verzoek
 
@@ -15,7 +27,7 @@ In deze brief leest u ons besluit op uw verzoek.
 
 Besluit
 
-Wij besluiten de volgende informatie (gedeeltelijk) openbaar te maken:  
+Wij besluiten de volgende informatie (gedeeltelijk) openbaar te maken: 
 
 1. Besluit van 12 september 2018 ingevolge de Wet natuurbescherming voor het uitbreiden/wijzigen van een industrieel bedrijf, gelegen aan de Chemieweg 25, 4782 SJ te Moerdijk;
 
@@ -27,7 +39,7 @@ Wij besluiten de volgende informatie (gedeeltelijk) openbaar te maken:
 
 Motivering 
 
-Iedereen heeft het recht om overheidsinformatie op te kunnen vragen zonder daarbij een reden aan te geven. Dit is een belangrijk recht van de burger. Daarbij is het uitgangspunt dat overheidsinformatie openbaar is, tenzij er uitzonderingsgronden zijn die dit beperken. Wij wegen hierbij het algemeen belang van openbaarheid af tegen de belangen die de uitzonderingsgronden beschermen. In het algemeen geldt hierbij de regel dat wanneer wij informatie aan u verstrekken, het openbaar is voor een ieder.  
+Iedereen heeft het recht om overheidsinformatie op te kunnen vragen zonder daarbij een reden aan te geven. Dit is een belangrijk recht van de burger. Daarbij is het uitgangspunt dat overheidsinformatie openbaar is, tenzij er uitzonderingsgronden zijn die dit beperken. Wij wegen hierbij het algemeen belang van openbaarheid af tegen de belangen die de uitzonderingsgronden beschermen. In het algemeen geldt hierbij de regel dat wanneer wij informatie aan u verstrekken, het openbaar is voor een ieder. 
 
 Zoekslag
 
