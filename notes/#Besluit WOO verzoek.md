@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T16:00:03.185Z'
+modified: '2024-12-20T17:21:19.556Z'
 ---
 
 #Besluit WOO verzoek
@@ -34,7 +34,11 @@ modified: '2024-12-20T16:00:03.185Z'
 #xlsx-inventaris:https://github.com/goija/Shell/tree/main/xlsx-inventaris
 
 #attachments: https://github.com/goija/Shell/tree/main/attachments
-notes
+
+#ruimtelijk #bestuursrecht #knooppuntenXML
+https://github.com/goija/Shell/blob/main/ruimtelijk%20bestuursrecht/subnodes.lst
+https://github.com/goija/Shell/blob/main/ruimtelijk%20bestuursrecht/Ruimtelijke_bestuursrecht.txt
+
 
 File details/ype/PDF/Size /101.3 MB/Storage used/202.7 MB
 4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd
