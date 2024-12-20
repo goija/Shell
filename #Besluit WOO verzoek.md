@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T11:25:51.731Z'
+modified: '2024-12-20T11:35:04.498Z'
 ---
 
 #Besluit WOO verzoek
@@ -18,13 +18,17 @@ notes
 
 Mutaties: https://echo.notable.app/d171703c12d1d75dcd9865ca34fbe3db3cc24e0f51cea7dc0ec9e7f20189e80f
 
-#notes: https://echo.notable.app/5a91910f3ed48bc86ae2db45531c07d4a8f29268fc6935d731548aecaf6de79d
+#notes: 
+Kamer van Koophandel - Shell
+Mutaties
+foutcode 
+CTF : https://github.com/goija/Shell/tree/main/ctf
 
 ----------------------------------------
 
 #xlsx-inventaris:https://echo.notable.app/87628a79d3f81b2d05bdce96904cc44aa0bc4e37939a43692c9e3c13332f49ba
 
-CTF : https://github.com/goija/Shell/tree/main/ctf
+#zware bestanden -provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
 
 --------------------------------------------------
 
@@ -33,11 +37,6 @@ CTF : https://github.com/goija/Shell/tree/main/ctf
 #Publicatie platform: https://open.brabant.nl/
 
 ----------------------------------------------------
-
-#zware bestanden -provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
-
--------------------------------------------------------------
-
 Legal information - SHELL Nederland Chemie B.V.
 Type	Hoofdkantoor
 Maatschappelijk kapitaal	
@@ -46,6 +45,11 @@ Vestigingsnummer	000019952163
 Btw nummer	001848173
 
 #mutaties: https://echo.notable.app/5f1285076cc25df39a182bf017e89ff3d441e0200d05a864c4d2c7cb234be1ee
+
+-------------------------------------------------------------
+
+#home https://github.com/goija/Shell/tree/main
+
 ----------------------------------------------------------------
 
 https://wetransfer.com/downloads/c88079594d6cf1d8f9f64437400eae2f20241220064013/0cabefef4708b0a34944e1a60fa4b6f320241220064029/4e65f8?t_exp=1734936013&t_lsid=3db26c34-69f5-455c-b187-0b29fbc113da&t_network=email&t_rid=YXV0aDB8NjZkMTY3N2Y1ZGE4MjdmNjk2MjMyODZm&t_s=download_link&t_ts=1734676829&trk=TRN_TDL_01
