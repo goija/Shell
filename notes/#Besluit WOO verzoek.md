@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T15:24:08.348Z'
+modified: '2024-12-20T16:00:03.185Z'
 ---
 
 #Besluit WOO verzoek
@@ -12,15 +12,11 @@ modified: '2024-12-20T15:24:08.348Z'
 --------------------------------------------
 1 #: Besluit WOO verzoek
 --------------------------------------------------
-Zakelijk gesprek - Elements.io
-https://matrix.to/#/!nZpSoHsHkFOtffTzhX:matrix.org/$NVuogsCCRbusaSYxg4GLu7LQhMFQ5NgwCWCP18E0hnc?via=matrix.org
 
-![](@attachment/Clipboard_2024-12-20-16-08-11.png)
+  <ul>
+    <li>Open the <a href="/">homepage</a></li>
+    <li>Click the <a href="javascript:history.go(-1)">back</a> </ul>
 
-files : 1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd1.pdf
-
-IPFS url: https://combined-red-possum.myfilebase.com/ipfs/QmYA9t8UZb6hM3Ws235FpQszJoVQm8guZPDpYzXZW5RJeK/
-A directory of content-addressed files hosted on IPFS.
 
 
 --------------------------------------------
