@@ -1,8 +1,4 @@
 ---
-filebase - attachments: https://combined-red-possum.myfilebase.com/ipfs/QmYA9t8UZb6hM3Ws235FpQszJoVQm8guZPDpYzXZW5RJeK/
-
-uitnodiging voor zakelijk gesprek https://matrix.to/#/#woo-brabant:matrix.org
-
 
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
