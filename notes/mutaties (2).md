@@ -1,15 +1,12 @@
 ---
 title: mutaties
 created: '2024-12-20T12:02:40.890Z'
-modified: '2024-12-20T12:03:16.920Z'
+modified: '2024-12-20T12:14:52.466Z'
 ---
 
 # mutaties
 
-https://www.transfirm.nl/nl/organisatie/24082750-000019952163
-
 #mutatie: "Per 1-8-2021 is Bestuurder Susanne Maria IJkema-Hilgenkamp uit functie getreden."
-
 https://echo.notable.app/4858609737b9dc17269da25bd0b255c511140a5345dbe5ff582eb3fb575249f8
 
 #mutatie: "Per 1-10-2021 is Bestuurder Vincent Lawrence Dick Manten in functie getreden."
