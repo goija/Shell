@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T11:14:42.591Z'
+modified: '2024-12-20T11:23:31.528Z'
 ---
 
 #Besluit WOO verzoek
@@ -14,7 +14,7 @@ modified: '2024-12-20T11:14:42.591Z'
 notes
 
 ------------------------------------------
-#kvk shell https://echo.notable.app/b352540ae038310ba5cc0a888c8e24648c7b05f241d717c46a5fdcca1ebf9fe0
+#kvk shell https://echo.notable.app/f24ee845d5de1ed1500993d2225b8dfad7389fc1c8e3d8a2484c29fd1bc07472
 
 Mutaties: https://echo.notable.app/d171703c12d1d75dcd9865ca34fbe3db3cc24e0f51cea7dc0ec9e7f20189e80f
 
@@ -45,7 +45,7 @@ Vestigingsnummer	000019952163
 Btw nummer	001848173
 
 #mutaties: https://echo.notable.app/5f1285076cc25df39a182bf017e89ff3d441e0200d05a864c4d2c7cb234be1ee
------------------------------------------------------------------
+----------------------------------------------------------------
 
 https://wetransfer.com/downloads/c88079594d6cf1d8f9f64437400eae2f20241220064013/0cabefef4708b0a34944e1a60fa4b6f320241220064029/4e65f8?t_exp=1734936013&t_lsid=3db26c34-69f5-455c-b187-0b29fbc113da&t_network=email&t_rid=YXV0aDB8NjZkMTY3N2Y1ZGE4MjdmNjk2MjMyODZm&t_s=download_link&t_ts=1734676829&trk=TRN_TDL_01
 
