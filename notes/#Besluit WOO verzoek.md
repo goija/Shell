@@ -1,10 +1,9 @@
 ---
 attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd.pdf.pdf, 3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd.pdf, 4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd.pdf, Inventaris_38188.xlsx]
-deleted: true
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T11:01:52.259Z'
+modified: '2024-12-20T11:05:15.773Z'
 ---
 
 #Besluit WOO verzoek

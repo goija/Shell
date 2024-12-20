@@ -2,7 +2,7 @@
 tags: [David Lawrence, kvk shell, Maria IJkema-Hilgenkamp, mutaties]
 title: mutaties
 created: '2024-12-20T10:27:46.152Z'
-modified: '2024-12-20T11:01:32.713Z'
+modified: '2024-12-20T11:05:30.521Z'
 ---
 
 # mutaties
