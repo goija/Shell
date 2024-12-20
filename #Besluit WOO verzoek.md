@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T17:21:19.556Z'
+modified: '2024-12-20T17:25:50.694Z'
 ---
 
 #Besluit WOO verzoek
@@ -36,6 +36,7 @@ modified: '2024-12-20T17:21:19.556Z'
 #attachments: https://github.com/goija/Shell/tree/main/attachments
 
 #ruimtelijk #bestuursrecht #knooppuntenXML
+https://github.com/goija/Shell/blob/main/notes/leerstoelen.md
 https://github.com/goija/Shell/blob/main/ruimtelijk%20bestuursrecht/subnodes.lst
 https://github.com/goija/Shell/blob/main/ruimtelijk%20bestuursrecht/Ruimtelijke_bestuursrecht.txt
 
@@ -45,7 +46,6 @@ File details/ype/PDF/Size /101.3 MB/Storage used/202.7 MB
 1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd
 2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd
 3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd
-
 
  -Provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
 
@@ -64,6 +64,11 @@ Btw nummer	001848173
 #mutaties: https://github.com/goija/Shell/blob/main/notes/mutaties%20(2).md
 
 https://www.transfirm.nl/nl/organisatie/24082750-000019952163
+
+-------------------------------------------------------------
+4 #leerstoelen
+
+https://echo.notable.app/066f69d70fafd59ab609e57ef48f521067553b9bcd127b6fbe0623c5164eb799
 
 -------------------------------------------------------------
 4 #Wetransfer - Transfer verloopt over 3 dagen - 20-12-2024
