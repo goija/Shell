@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T11:53:56.690Z'
+modified: '2024-12-20T11:58:32.710Z'
 ---
 
 #Besluit WOO verzoek
@@ -39,7 +39,8 @@ Btw nummer	001848173
 
 #kvk shell https://echo.notable.app/f24ee845d5de1ed1500993d2225b8dfad7389fc1c8e3d8a2484c29fd1bc07472
 
-#mutaties: https://echo.notable.app/5f1285076cc25df39a182bf017e89ff3d441e0200d05a864c4d2c7cb234be1ee
+#mutaties: 
+https://echo.notable.app/3ac087e2544d4c571b5b0b4161c0e13da9f6cd72c7bad16f9ad1ab3d9f8a7e7f
 
 -------------------------------------------------------------
 4 #Wetransfer 
