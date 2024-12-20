@@ -1,14 +1,12 @@
 ---
 attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd.pdf.pdf, 3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd.pdf, 4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd.pdf, Inventaris_38188.xlsx]
-tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
+tags: ['#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T09:38:36.881Z'
+modified: '2024-12-20T08:30:45.798Z'
 ---
 
 #Besluit WOO verzoek
-
-#kvk shell
 
 #attachments: https://github.com/goija/Shell/tree/main/attachments
 notes
@@ -23,11 +21,22 @@ notes
 
 #zware bestanden -provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
 
+#kvk shell https://github.com/goija/Shell/blob/main/notes/KVK%20shell.md
+
+Legal information - SHELL Nederland Chemie B.V.
+Type	Hoofdkantoor
+Maatschappelijk kapitaal	
+KvK nummer	24082750
+Vestigingsnummer	000019952163
+Btw nummer	001848173
+
+https://www.transfirm.nl/nl/organisatie/24082750-000019952163
+
+#mutatie: "Per 1-8-2021 is Bestuurder Susanne Maria IJkema-Hilgenkamp uit functie getreden."
+
 https://wetransfer.com/downloads/c88079594d6cf1d8f9f64437400eae2f20241220064013/0cabefef4708b0a34944e1a60fa4b6f320241220064029/4e65f8?t_exp=1734936013&t_lsid=3db26c34-69f5-455c-b187-0b29fbc113da&t_network=email&t_rid=YXV0aDB8NjZkMTY3N2Y1ZGE4MjdmNjk2MjMyODZm&t_s=download_link&t_ts=1734676829&trk=TRN_TDL_01
 
 # Besluit Woo-verzoek /attachments/1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf
-
-#foutcode 
 
 Geachte mevrouw ######,
 
