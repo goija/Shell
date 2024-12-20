@@ -30,7 +30,7 @@ KvK nummer	24082750
 Vestigingsnummer	000019952163
 Btw nummer	001848173
 
-#mutaties
+#mutaties https://github.com/goija/Shell/blob/main/mutaties.md
  
 
 https://wetransfer.com/downloads/c88079594d6cf1d8f9f64437400eae2f20241220064013/0cabefef4708b0a34944e1a60fa4b6f320241220064029/4e65f8?t_exp=1734936013&t_lsid=3db26c34-69f5-455c-b187-0b29fbc113da&t_network=email&t_rid=YXV0aDB8NjZkMTY3N2Y1ZGE4MjdmNjk2MjMyODZm&t_s=download_link&t_ts=1734676829&trk=TRN_TDL_01
