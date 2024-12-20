@@ -1,12 +1,27 @@
 ---
-attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd.pdf.pdf, 3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd.pdf, 4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd.pdf, Inventaris_38188.xlsx]
+attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd.pdf.pdf, 3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd.pdf, 4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd.pdf, Clipboard_2024-12-20-16-08-11.png, Inventaris_38188.xlsx]
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T12:18:02.383Z'
+modified: '2024-12-20T15:24:08.348Z'
 ---
 
 #Besluit WOO verzoek
+
+
+--------------------------------------------
+1 #: Besluit WOO verzoek
+--------------------------------------------------
+Zakelijk gesprek - Elements.io
+https://matrix.to/#/!nZpSoHsHkFOtffTzhX:matrix.org/$NVuogsCCRbusaSYxg4GLu7LQhMFQ5NgwCWCP18E0hnc?via=matrix.org
+
+![](@attachment/Clipboard_2024-12-20-16-08-11.png)
+
+files : 1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd1.pdf
+
+IPFS url: https://combined-red-possum.myfilebase.com/ipfs/QmYA9t8UZb6hM3Ws235FpQszJoVQm8guZPDpYzXZW5RJeK/
+A directory of content-addressed files hosted on IPFS.
+
 
 --------------------------------------------
 1 #Home: Besluit WOO verzoek
@@ -25,7 +40,14 @@ modified: '2024-12-20T12:18:02.383Z'
 #attachments: https://github.com/goija/Shell/tree/main/attachments
 notes
 
-#zware bestanden -provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
+File details/ype/PDF/Size /101.3 MB/Storage used/202.7 MB
+4_Besluit van 26 juni 2021 Wet natuurbescherming - Natura 2000 Chemieweg 25 4782_geanonimiseerd
+1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd
+2_email correspondentie april en maart 2019 ODBN en Shell Nederland Chemie gelakt_geanonimiseerd
+3_Gespreksverslag van 12 juni 2019_geanonimiseerd_geanonimiseerd
+
+
+ -Provincie brabant: https://drive.google.com/drive/folders/1KnwZgnxpc2OmJQYpOc24jcikCWm_9OdF?usp=sharing
 
 --------------------------------------------------
 3  #Kamer van koophandel
@@ -41,9 +63,10 @@ Btw nummer	001848173
 
 #mutaties: https://github.com/goija/Shell/blob/main/notes/mutaties%20(2).md
 
+https://www.transfirm.nl/nl/organisatie/24082750-000019952163
 
 -------------------------------------------------------------
-4 #Wetransfer 
+4 #Wetransfer - Transfer verloopt over 3 dagen - 20-12-2024
 ----------------------------------------------------------------
 
 https://wetransfer.com/downloads/c88079594d6cf1d8f9f64437400eae2f20241220064013/0cabefef4708b0a34944e1a60fa4b6f320241220064029/4e65f8?t_exp=1734936013&t_lsid=3db26c34-69f5-455c-b187-0b29fbc113da&t_network=email&t_rid=YXV0aDB8NjZkMTY3N2Y1ZGE4MjdmNjk2MjMyODZm&t_s=download_link&t_ts=1734676829&trk=TRN_TDL_01
