@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T12:04:13.501Z'
+modified: '2024-12-20T12:18:02.383Z'
 ---
 
 #Besluit WOO verzoek
@@ -37,10 +37,10 @@ KvK nummer	24082750
 Vestigingsnummer	000019952163
 Btw nummer	001848173
 
-#kvk shell https://echo.notable.app/f24ee845d5de1ed1500993d2225b8dfad7389fc1c8e3d8a2484c29fd1bc07472
+#kvk shell https://github.com/goija/Shell/blob/main/notes/KVK-Shell.md
 
-#mutaties: 
-https://echo.notable.app/38f670d42cefcaeef51cb0901db3e96dd9f16860a079c6989f672b754dff1600
+#mutaties: https://github.com/goija/Shell/blob/main/notes/mutaties%20(2).md
+
 
 -------------------------------------------------------------
 4 #Wetransfer 
