@@ -1,8 +1,8 @@
 ---
-tags: [kvk shell]
+tags: [David Lawrence, kvk shell, Maria IJkema-Hilgenkamp, mutaties]
 title: mutaties
 created: '2024-12-20T10:27:46.152Z'
-modified: '2024-12-20T10:28:24.357Z'
+modified: '2024-12-20T10:48:04.919Z'
 ---
 
 # mutaties
@@ -10,8 +10,12 @@ modified: '2024-12-20T10:28:24.357Z'
 ttps://www.transfirm.nl/nl/organisatie/24082750-000019952163
 
 #mutatie: "Per 1-8-2021 is Bestuurder Susanne Maria IJkema-Hilgenkamp uit functie getreden."
+https://echo.notable.app/4858609737b9dc17269da25bd0b255c511140a5345dbe5ff582eb3fb575249f8
 
 #mutatie: "Per 1-10-2021 is Bestuurder Vincent Lawrence Dick Manten in functie getreden."
+
+https://echo.notable.app/67414adc6c51c00d436cb2ad43cac9acfc3fa9fad7582484786d58fd53141767
+
 
 #mutatie: "Per 1-8-2021 is Gevolmachtigde Sebastiaan de Jonge in functie getreden."
 
