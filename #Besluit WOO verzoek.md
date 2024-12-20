@@ -3,7 +3,7 @@ attachments: [1_besluit 12 september 2018_geanonimiseerd_geanonimiseerd.pdf, 2_e
 tags: ['#foutcode', '#Publicatie platform: https:/open.brabant.nl', home/uservies/Bureaublad/Shell/notes, home/uservies/Bureaublad/Shell/xlsx-inventaris, kvk shell]
 title: '#Besluit WOO verzoek'
 created: '2024-12-19T18:03:33.788Z'
-modified: '2024-12-20T11:23:31.528Z'
+modified: '2024-12-20T11:25:51.731Z'
 ---
 
 #Besluit WOO verzoek
@@ -19,6 +19,7 @@ notes
 Mutaties: https://echo.notable.app/d171703c12d1d75dcd9865ca34fbe3db3cc24e0f51cea7dc0ec9e7f20189e80f
 
 #notes: https://echo.notable.app/5a91910f3ed48bc86ae2db45531c07d4a8f29268fc6935d731548aecaf6de79d
+
 ----------------------------------------
 
 #xlsx-inventaris:https://echo.notable.app/87628a79d3f81b2d05bdce96904cc44aa0bc4e37939a43692c9e3c13332f49ba
