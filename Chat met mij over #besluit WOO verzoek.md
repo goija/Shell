@@ -11,10 +11,13 @@ modified: '2024-12-20T16:14:24.678Z'
 <head>
   <meta name="robots" content="noindex" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>index</title>
+  <title></title>
 </head>
 <body>
+  <p>
+  Leuk dat je over een WOO-verzoek wil praten! En natuurlijk, hier is virtuele koffie voor jou: ☕. Proost!</P>
   
+  -------------------------------------------------------
   
   <ul>
     <li>
@@ -23,7 +26,7 @@ modified: '2024-12-20T16:14:24.678Z'
      
      https://combined-red-possum.myfilebase.com/ipfs/QmYA9t8UZb6hM3Ws235FpQszJoVQm8guZPDpYzXZW5RJeK/
 
-Uitnodiging voor zakelijk gesprek 
+Uitnodiging voor Woo-gesprek #Shell #Moerdijk
 https://matrix.to/#/!nZpSoHsHkFOtffTzhX:matrix.org/$NVuogsCCRbusaSYxg4GLu7LQhMFQ5NgwCWCP18E0hnc?via=matrix.org
 woo-brabant
 
