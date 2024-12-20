@@ -1,1 +1,34 @@
-1
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="1" master_id="0" name="Ruimtelijke bestuursrecht" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1734713737" ts_lastsave="1734713951">
+    <rich_text>   
+
+Een vergunning ingevolge artikel 2.7 verwijst naar een vergunning zoals bedoeld in de Wet natuurbescherming (Wnb) in Nederland. Artikel 2.7 van deze wet gaat specifiek over activiteiten die kunnen leiden tot schadelijke gevolgen voor beschermde natuurgebieden, zoals Natura 2000-gebieden.
+Een dergelijke vergunning is vereist als een project of activiteit:
+1. </rich_text>
+    <rich_text weight="heavy">Significante effecten</rich_text>
+    <rich_text> kan hebben op een Natura 2000-gebied.
+2. Voldoet aan de voorwaarden van een passende beoordeling volgens de Europese Habitatrichtlijn.
+
+</rich_text>
+    <rich_text scale="h3">Wanneer is deze vergunning nodig?</rich_text>
+    <rich_text>
+De vergunning is bijvoorbeeld nodig voor:
+• Bouwprojecten.
+• Industriële activiteiten.
+• Landbouwpraktijken.
+• Ontgravings- of infrastructuurprojecten.
+
+De beoordeling richt zich op mogelijke schade aan habitats en soorten die worden beschermd in een Natura 2000-gebied, zoals stikstofuitstoot, verstoring, of aantasting van het leefgebied.
+
+</rich_text>
+    <rich_text scale="h3">Aanvraagprocedure</rich_text>
+    <rich_text>
+De aanvraag voor een vergunning ingevolge artikel 2.7 moet worden ingediend bij:
+◇ De provincie, tenzij het gaat om een rijksproject (dan is het bevoegd gezag de minister).
+
+Een passend onderzoek is vaak vereist om de ecologische gevolgen in kaart te brengen. Het is ook belangrijk dat het project niet strijdig is met de doelstellingen van het beschermde gebied, tenzij er sprake is van dwingende redenen van groot openbaar belang én er geen alternatieven zijn.
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="c95df587f7f2b6af808b863d216eefaaf404d02c58b68238bad0f5f69818a74d"/>
+  </node>
+</cherrytree>
